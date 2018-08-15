@@ -1,1 +1,0 @@
-# korsimoro.io
