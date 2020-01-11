@@ -1,0 +1,9 @@
+{
+    "m.homeserver": {
+        "base_url": "https://korsimoro.modular.im"
+    },
+    "m.identity_server": {
+        "base_url": "https://vector.im"
+    }
+}
+
